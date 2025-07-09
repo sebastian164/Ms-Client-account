@@ -13,8 +13,8 @@ Cada servicio es independiente, mantiene su propia base de datos y sigue buenas 
 
 ```
 devsu-banking-system/
-├── client-service/      # Microservicio de clientes y personas
-├── account-service/     # Microservicio de cuentas y movimientos
+├── client/      # Microservicio de clientes y personas
+├── account/     # Microservicio de cuentas y movimientos
 └── README.md            # Este archivo
 ```
 
